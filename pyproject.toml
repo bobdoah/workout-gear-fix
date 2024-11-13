@@ -1,0 +1,12 @@
+[project]
+name = "workout-gear-fix"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "polars>=1.13.1",
+    "stravalib>=2.1",
+    "tabulate>=0.9.0",
+    "tomli-w>=1.1.0",
+]
